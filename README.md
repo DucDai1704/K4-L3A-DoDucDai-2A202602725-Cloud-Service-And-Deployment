@@ -1,4 +1,4 @@
-![CI](https://github.com/doducdai/K4-L3A-DoDucDai-2A202602725-Cloud-Service-And-Deployment/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/DucDai1704/K4-L3A-DoDucDai-2A202602725-Cloud-Service-And-Deployment/actions/workflows/ci.yml/badge.svg)
 
 # K4 — Level 3A, Ngày 12: Hạ Tầng Cloud & Deployment (240 phút)
 
